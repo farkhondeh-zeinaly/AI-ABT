@@ -1,0 +1,14 @@
+D:\Applications\My Applications\ABTProject\ABTProject\bin\Debug\ABTProject.exe
+D:\Applications\My Applications\ABTProject\ABTProject\bin\Debug\ABTProject.pdb
+D:\Applications\My Applications\ABTProject\ABTProject\obj\x86\Debug\ABTProject.exe
+D:\Applications\My Applications\ABTProject\ABTProject\obj\x86\Debug\ABTProject.pdb
+G:\ABTProject\ABTProject\obj\x86\Debug\ABTProject.exe
+G:\ABTProject\ABTProject\obj\x86\Debug\ABTProject.pdb
+G:\ABTProject\ABTProject\bin\Debug\ABTProject.exe
+G:\ABTProject\ABTProject\bin\Debug\ABTProject.pdb
+E:\Projects\Farkhondeh Projects\ABTProject\ABTProject\bin\Debug\ABTProject.exe
+E:\Projects\Farkhondeh Projects\ABTProject\ABTProject\bin\Debug\ABTProject.pdb
+E:\Projects\Farkhondeh Projects\ABTProject\ABTProject\obj\x86\Debug\ABTProject.csprojResolveAssemblyReference.cache
+E:\Projects\Farkhondeh Projects\ABTProject\ABTProject\obj\x86\Debug\ABTProject.csproj.CoreCompileInputs.cache
+E:\Projects\Farkhondeh Projects\ABTProject\ABTProject\obj\x86\Debug\ABTProject.exe
+E:\Projects\Farkhondeh Projects\ABTProject\ABTProject\obj\x86\Debug\ABTProject.pdb
